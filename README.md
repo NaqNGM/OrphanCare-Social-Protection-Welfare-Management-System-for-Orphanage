@@ -112,7 +112,6 @@ OrphanCare/
 ├── assets/             # Images, icons and other assets
 ├── css/                # Stylesheets
 ├── js/                 # JavaScript files
-├── includes/           # Reusable PHP components
 ├── uploads/            # Uploaded documents
 ├── database/           # Database SQL files
 │
