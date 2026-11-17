@@ -115,8 +115,7 @@ OrphanCare/
 ├── documents/            # Uploaded documents
 ├── database/           # Database SQL files
 │
-├── index.php           # Main landing page
-├── login.php           # Login page
+├── sourcecode           # Coding folder
 └── README.md            # Project documentation
 
 ---
